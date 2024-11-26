@@ -8,6 +8,7 @@ acidity across sub-saharan Afric  and the broader implications of agricultural i
 
 ### 1. `data-input`
 This folder contains raw input datasets required for analysis.
+
     - **`before-you-start.txt`**: A quick guide outlining prerequisites, including include soil data, crop yield information, spatial layers, and related files.
 
 ### 2. `data-output`
